@@ -7,6 +7,8 @@ TinyLlama is a small open-sourced GPT/LLM that's allowed for commercial use.
 Official repo: https://github.com/jzhang38/TinyLlama
 
 Official demo: https://huggingface.co/spaces/TinyLlama/tinyllama-chat
+- official demo Python code: https://huggingface.co/spaces/TinyLlama/tinyllama-chat/blob/main/app.py
+- official demo requirements.txt: https://huggingface.co/spaces/TinyLlama/tinyllama-chat/blob/main/requirements.txt
 
 ## other things you might find interesting
 
