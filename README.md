@@ -10,6 +10,10 @@ Official demo: https://huggingface.co/spaces/TinyLlama/tinyllama-chat
 - official demo Python code: https://huggingface.co/spaces/TinyLlama/tinyllama-chat/blob/main/app.py
 - official demo requirements.txt: https://huggingface.co/spaces/TinyLlama/tinyllama-chat/blob/main/requirements.txt
 
+https://www.youtube.com/watch?v=Weprd1wKoQ4
+
+https://arxiv.org/abs/2401.02385
+
 ## other things you might find interesting
 
 https://github.com/hchiam/learning-localGPT
