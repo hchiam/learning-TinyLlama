@@ -14,6 +14,12 @@ https://www.youtube.com/watch?v=Weprd1wKoQ4
 
 https://arxiv.org/abs/2401.02385
 
+## me testing it out
+
+Demo on Google Colab: https://colab.research.google.com/drive/1p60kYImfZM2M_RyISR6hoK0xocVu2spX
+- Jupyter notebook export: https://github.com/hchiam/learning-TinyLlama/blob/main/TinyLlama_test.ipynb
+- Python export: https://github.com/hchiam/learning-TinyLlama/blob/main/tinyllama_test.py
+
 ## other things you might find interesting
 
 https://github.com/hchiam/learning-localGPT
