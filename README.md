@@ -2,7 +2,7 @@
 
 Just one of the things I'm learning. https://github.com/hchiam/learning
 
-TinyLlama is a small open-sourced GPT/LLM that's allowed for commercial use.
+TinyLlama is an **_open_-sourced** GPT/LLM licensed for **_commercial_** use and is **_small_** enough to run on **_edge_** devices (quantizable to 637 MB).
 
 Official repo: https://github.com/jzhang38/TinyLlama
 
