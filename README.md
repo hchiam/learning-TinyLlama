@@ -20,6 +20,9 @@ Demo on Google Colab: https://colab.research.google.com/drive/1p60kYImfZM2M_RyIS
 - Jupyter notebook export: https://github.com/hchiam/learning-TinyLlama/blob/main/TinyLlama_test.ipynb
 - Python export: https://github.com/hchiam/learning-TinyLlama/blob/main/tinyllama_test.py
 
+TODO:
+- make JS call Python code? https://github.com/hchiam/node-plus-python
+
 ## other things you might find interesting
 
 https://github.com/hchiam/learning-localGPT
